@@ -1,2 +1,2 @@
 # module-best-practices
-模块化最佳实践
+JavaScript 模块最佳实践
